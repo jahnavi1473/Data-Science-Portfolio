@@ -10,11 +10,14 @@ This repository showcases my end-to-end data science, machine learning and analy
 - Compared Logistic Regression, Random Forest, XGBoost
 - Best model: Logistic Regression (88.5% accuracy, 0.75 AUC)
 
+---
+
 ### 2. Customer Retention Analysis Dashboard
 - Built in Power BI using 7,000+ telecom customer records
 - Analyzed churn patterns by contract type & payment methods
 - Provided retention insights to reduce attrition
 
+---
 
 ### 3. Healthcare Claims Cost & Utilization Analytics Dashboard
 - Dataset: 100K+ healthcare claims records  
