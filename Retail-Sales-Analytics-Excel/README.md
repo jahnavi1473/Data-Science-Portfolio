@@ -16,7 +16,14 @@ The dashboard provides interactive insights into revenue trends, top products, c
 - Data Cleaning & Transformation
 
 ---
+## 📂 Dataset Source
 
+The dataset used in this project is publicly available from:
+
+UCI Machine Learning Repository – Online Retail Dataset  
+https://archive.ics.uci.edu/dataset/352/online+retail
+
+---
 ## 📈 Key Business Insights
 - Revenue trend analysis (2010–2011)
 - Top revenue-generating products
@@ -35,8 +42,21 @@ A VBA macro allows:
 ---
 
 ## 📷 Dashboard Preview
-(Add screenshot images here)
 
+### 🔹 Full Executive Dashboard
+![Full Dashboard](Screenshots/01_Full_Dashboard.png)
+
+### 🔹 KPI Section
+![KPI Cards](Screenshots/02_KPI_Cards.png)
+
+### 🔹 Interactive Filtering (Slicers + Timeline)
+![Interactive View](Screenshots/03_Interactive_Filtering.png)
+
+### 🔹 VBA Snapshot Automation
+![VBA Snapshot](Screenshots/04_VBA_Snapshot.png)
+
+### 🔹 Pivot Reporting Backend (Data Modeling Layer)
+![Pivot Backend](Screenshots/05_Pivot_Backend_Model.png)
 
 ---
 
