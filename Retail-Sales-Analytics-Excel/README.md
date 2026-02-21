@@ -56,7 +56,7 @@ A VBA macro allows:
 ![VBA Snapshot](Screenshots/04_VBA_Snapshot.png)
 
 ### 🔹 Pivot Reporting Backend (Data Modeling Layer)
-![Pivot Backend](Screenshots/05_Pivot_Backend_Model.png)
+![Pivot Backend](Screenshots/05_Pivot_Report_Backend.png)
 
 ---
 
