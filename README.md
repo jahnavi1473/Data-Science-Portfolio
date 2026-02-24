@@ -16,7 +16,3 @@ This repository showcases my end-to-end data science, machine learning and analy
 - Built in Power BI using 7,000+ telecom customer records
 - Analyzed churn patterns by contract type & payment methods
 - Provided retention insights to reduce attrition
-
-ords from government trade datasets  
-- Analyzed industry performance and seasonal demand trends  
-- Visualized category-wise sales growth and monthly trends using Tableau 
